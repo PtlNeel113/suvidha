@@ -157,7 +157,7 @@ export default function Schemes() {
   };
 
   return (
-    <KioskLayout showBackButton onBack={() => navigate("/")} title="Government Schemes">
+    <KioskLayout showBackButton onBack={() => navigate("/dashboard")} title="Government Schemes">
       <div className="max-w-6xl mx-auto px-6 py-8">
         {/* Hero Section */}
         <div className="text-center mb-8">

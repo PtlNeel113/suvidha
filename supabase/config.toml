@@ -1,0 +1,4 @@
+project_id = "zmvonyruvpqnqfjsfzoa"
+
+[functions.suvidha-chat]
+verify_jwt = false

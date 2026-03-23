@@ -156,7 +156,7 @@ export default function Certificates() {
   });
 
   return (
-    <KioskLayout showBackButton onBack={() => navigate("/")} title="Government Certificates">
+    <KioskLayout showBackButton onBack={() => navigate("/dashboard")} title="Government Certificates">
       <div className="max-w-6xl mx-auto px-6 py-8">
         {/* Hero */}
         <div className="text-center mb-8">
